@@ -26,3 +26,4 @@ IV. Adicione um método que permite transferir dinheiro de um cartão para o out
            e) Listar a informação de todos os cartões registados pela ordem crescente dos seus saldos;
 
 3.4 Toda a informação dos cartões deve ser manipulada com o auxílio a uma colecção de objectos e armazenada num ficheiro de objectos. (1.0)
+...
